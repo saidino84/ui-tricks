@@ -21,8 +21,7 @@ tree.heading("Custo", text="Custo")
 tree.heading("Venda", text="Venda")
 tree.heading("Proveniência", text="Proveniência")
 
-# Configurar as larguras das colunas
-tree.column("#0", width=100)
+
 tree.column("Código", width=100)
 tree.column("Produto", width=100)
 tree.column("Custo", width=100)
